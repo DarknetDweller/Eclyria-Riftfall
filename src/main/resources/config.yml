@@ -1,0 +1,45 @@
+server:
+  name: "ECLYRIA: RIFTFALL"
+  creator: "Darknet_Dweller"
+  team: "NullWalkers"
+  alpha: 2
+world:
+  name: "EclyriaRiftfall"
+  send-new-players-to-havenfall: true
+  # The hub world is preserved. Rift worlds are separate Multiverse-Core worlds.
+rifts:
+  ambience: true
+  worlds:
+    verdant: "Rift_Verdant"
+    ember: "Rift_Ember"
+    void: "Rift_Void"
+  generation:
+    ore-veins-per-chunk-min: 3
+    ore-veins-per-chunk-max: 6
+    small-ruin-chance: 1/90
+regions:
+  havenfall:
+    display-name: "Havenfall"
+  verdant:
+    display-name: "Verdant Reach"
+  riftlands:
+    display-name: "Riftlands"
+progression:
+  starting-level: 1
+  starting-xp: 0
+items:
+  rift_shard:
+    material: AMETHYST_SHARD
+    name: "&5Rift Shard"
+    lore:
+      - "&7A fragment of unstable dimensional energy."
+  aetherite:
+    material: PRISMARINE_CRYSTALS
+    name: "&bAetherite"
+    lore:
+      - "&7A refined magical crafting resource."
+  voidglass:
+    material: ECHO_SHARD
+    name: "&8Voidglass"
+    lore:
+      - "&7A rare material touched by the Rift."

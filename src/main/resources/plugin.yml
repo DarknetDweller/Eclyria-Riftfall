@@ -1,0 +1,19 @@
+name: EclyriaCore
+version: '0.3.4-alpha3.4'
+main: com.nullwalkers.eclyria.EclyriaCore
+api-version: '1.21'
+depend: [Multiverse-Core]
+author: Darknet_Dweller
+description: "Fantasy RPG world, collections, equipment and crafting."
+commands:
+  eclyria:
+    description: Eclyria RPG menus, worlds, items and management commands.
+    usage: /eclyria help
+    aliases: [ec, ecly]
+permissions:
+  eclyria.use:
+    description: Use Eclyria player commands.
+    default: true
+  eclyria.admin:
+    description: Administer Eclyria RPG systems.
+    default: op
