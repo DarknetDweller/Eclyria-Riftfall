@@ -1,258 +1,309 @@
+ <div align="center">
+
 # ECLYRIA: RIFTFALL
 
-### An Original Fantasy RPG Experience for Minecraft
+### THE WORLD BEYOND THE KNOWN
 
-*Explore the unknown. Discover the Rift. Shape your own legend.*
+**An Original Fantasy RPG Experience for Minecraft**
 
-Eclyria: Riftfall is an ambitious fantasy RPG project developed by **Darknet_Dweller** under **NullWalkers**.
+*Three dimensions. Forgotten civilizations. An adventure waiting to unfold.*
 
-Inspired by MMORPG experiences, Eclyria aims to transform Minecraft into an immersive fantasy adventure featuring distinct character classes, mysterious dimensions, unique creatures, magical abilities, rare equipment, and an evolving world.
+<br>
 
-The project is built around exploration, character progression, discovery, and the feeling of becoming part of a much larger world.
+![Version](https://img.shields.io/badge/VERSION-ALPHA_0.5-9B78C8?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-C58B45?style=for-the-badge)
+![Project](https://img.shields.io/badge/GENRE-FANTASY_RPG-6577B8?style=for-the-badge)
+![Development](https://img.shields.io/badge/AI-ASSISTED_DEVELOPMENT-5B9B86?style=for-the-badge)
 
----
+**Created by Darknet_Dweller | A NullWalkers Project**
 
-> [!WARNING]
-> **OLDER PREVIEW — INCOMPLETE SOURCE CODE**
->
-> This repository contains an older preview version of Eclyria: Riftfall.
->
-> The codebase is incomplete and does not represent the latest development version. Certain features may be unfinished, outdated, missing, or different from their current planned designs.
->
-> This repository is preserved for reference and historical development purposes. It should not be considered a complete or stable release.
+</div>
 
 ---
 
-## The World of Eclyria
+> [!IMPORTANT]
+> ## ALPHA 0.5 — EARLY DEVELOPMENT
+>
+> Eclyria: Riftfall is currently in **Alpha 0.5** and remains under active development.
+>
+> The project is evolving, and its features, mechanics, world design, and overall experience are subject to change.
+>
+> **Repository Notice:** The source code provided in this repository comes from an older preview and is incomplete. It does not represent the latest development build. Certain features may be unfinished, outdated, or missing.
 
-Eclyria is a world shaped by ancient powers, forgotten civilizations, mysterious energies, and dimensions beyond ordinary understanding.
+---
 
-Beyond familiar lands lie the Rift dimensions, each holding its own environments, resources, creatures, and secrets.
+## CONTENTS
 
-Exploration is central to the experience. Every region is intended to offer something different, whether it is discovering rare materials, encountering unfamiliar creatures, or uncovering forgotten places.
+- [About Eclyria](#about-eclyria)
+- [The World](#the-world)
+- [Character Classes](#character-classes)
+- [Gameplay](#gameplay)
+- [Artifacts and Equipment](#artifacts-and-equipment)
+- [Creatures of Eclyria](#creatures-of-eclyria)
+- [Divine Revelation](#divine-revelation)
+- [Havenfall](#havenfall)
+- [Development Philosophy](#development-philosophy)
+- [AI-Assisted Development](#ai-assisted-development)
+- [Project Information](#project-information)
+- [Credits](#credits)
 
-## Character Classes
+---
 
-Eclyria features four distinct character classes, each representing a different approach to adventure and combat.
+## ABOUT ECLYRIA
 
-<escape>### Vanguard
-</escape>
-A resilient frontline warrior focused on strength, defense, and close-range combat.
+**Some worlds are discovered. Others are awakened.**
 
-### Arcanist
+Eclyria: Riftfall is an ambitious fantasy RPG project designed to bring a distinctive MMORPG-inspired experience into Minecraft.
 
-A practitioner of arcane magic who channels magical energy into powerful abilities.
+Set in a world shaped by ancient powers, mysterious dimensions, forgotten civilizations, and extraordinary creatures, Eclyria revolves around exploration, character progression, magical abilities, and the pursuit of legendary equipment.
 
-### Ranger
+The vision is to create an experience where every dimension has an identity, every discovery has meaning, and every adventure feels like a journey into the unknown.
 
-A skilled combatant specializing in precision, ranged attacks, and mobility.
+Eclyria is more than a collection of RPG mechanics. It is an evolving fantasy world with its own atmosphere, identity, and creative direction.
 
-### Luminary
+## THE WORLD
 
-A wielder of radiant powers with an emphasis on magical support and restoration.
+Three mysterious dimensions form the foundation of the Riftfall experience.
 
-## The Rift Dimensions
+### VERDANT REACH
 
-Three major dimensions form the foundation of Eclyria's exploration experience.
+*Where nature remembers what civilization has forgotten.*
 
-### Verdant Reach
+A mysterious environment shaped by ancient growth, forgotten ruins, and the forces of nature.
 
-<escape> </escape>
+- Lush and overgrown landscapes.
+- Rare regional resources.
+- Ancient structures and forgotten places.
+- Creatures born from the natural world.
+- A distinct atmosphere built around nature and exploration.
 
-A mysterious region shaped by nature, ancient growth, and forgotten life.
+### EMBER RIFT
 
-- Lush and overgrown environments.
-- Unique regional resources.
-- Ancient ruins and forgotten places.
-- Creatures adapted to the natural world.
+*Where fire consumes the old and creates the new.*
 
-### Ember Rift
-
-A hostile landscape defined by heat, ash, and volcanic surroundings.
+A hostile realm defined by volcanic landscapes, ancient remnants, and the relentless presence of heat and ash.
 
 - Volcanic environments.
 - Rare mineral deposits.
-- Dangerous creatures.
-- Ancient remnants hidden beneath the landscape.
+- Hostile inhabitants.
+- Forgotten places hidden beneath the landscape.
+- A harsh environment shaped by fire and destruction.
 
-### Void Rift
+### VOID RIFT
 
-A strange dimension filled with unfamiliar landscapes and mysterious energy.
+*Beyond reality lies something yet to be understood.*
+
+A mysterious dimension filled with unfamiliar landscapes, strange energies, and secrets waiting to be uncovered.
 
 - Distinctive atmospheric environments.
-- Rare dimensional resources.
+- Rare dimensional materials.
 - Unusual creatures.
-- Secrets waiting to be discovered.
+- Mysterious discoveries.
+- An identity built around the unknown.
 
-## Gameplay Features
+## CHARACTER CLASSES
 
-### RPG Progression
+Four distinct paths define the way adventurers approach the world.
 
-- Character classes.
-- Experience and leveling.
-- Character statistics.
-- Individual player progression.
-- Persistent character identity.
-- Equipment-based advancement.
+| Class | Identity | Specialization |
+|---|---|---|
+| **Vanguard** | The Unbreakable | Frontline combat and defense |
+| **Arcanist** | The Arcane Scholar | Magical offense and arcane power |
+| **Ranger** | The Pathfinder | Precision and ranged combat |
+| **Luminary** | The Divine Wielder | Radiant magic and support |
 
-### Mana and Magic
+Each class represents a different identity within the world of Eclyria, offering a foundation for different playstyles and character progression.
 
-Magic is an important part of Eclyria's identity.
+## GAMEPLAY
+
+### Character Progression
+
+Your journey is defined by experience, discovery, and advancement.
+
+- Character leveling.
+- Experience progression.
+- Individual character statistics.
+- Class-based identities.
+- Equipment advancement.
+- Persistent character progression.
+
+### Magic and Mana
+
+Magic is one of the defining elements of Eclyria.
 
 - Custom mana system.
 - Magical abilities.
 - Mana capacity progression.
 - Ability cooldowns.
+- Mana restoration.
 - Divine Revelation.
 - Magical artifacts.
-- Meditation and mana restoration.
 
-### Weapons and Equipment
+### Crafting and Collections
 
-Eclyria features a growing collection of fantasy-inspired equipment.
+Discover materials and build your collection of extraordinary equipment.
 
-Some notable concepts include:
+- Unique crafting materials.
+- Special equipment.
+- Collectible artifacts.
+- Personal collections.
+- Cosmetic customization.
+- Rare discoveries.
 
-| Equipment | Description |
+### Exploration
+
+The world is designed around discovering places, creatures, and resources beyond the familiar.
+
+- Distinct Rift dimensions.
+- Regional resources.
+- Ancient ruins.
+- Unique environments.
+- Unfamiliar creatures.
+- Exploration-focused discoveries.
+
+## ARTIFACTS AND EQUIPMENT
+
+*Not every treasure is ordinary.*
+
+Eclyria features a growing collection of fantasy-inspired weapons, magical artifacts, and equipment.
+
+| Artifact | Description |
 |---|---|
-| Stormcaller Staff | A weapon associated with storm magic |
-| Glacier Orb | An artifact of frost |
-| Shadowstep Dagger | A weapon associated with shadow and mobility |
+| Stormcaller Staff | An artifact associated with storm magic |
+| Glacier Orb | A mysterious relic of frost |
+| Shadowstep Dagger | A weapon of shadow and mobility |
 | Phoenix Feather | A rare restorative artifact |
 | Void Reaper | A weapon inspired by the Void |
 | Gravity Maul | A powerful heavy weapon |
 | Abyssal Crown | A mysterious high-tier artifact |
 | Astral Compass | An exploration-themed artifact |
 | Warding Totem | A defensive magical object |
-| Dreamweaver | An artifact of mysterious magical origin |
+| Dreamweaver | An artifact of mysterious origin |
 
-### Creatures and Bestiary
+These artifacts contribute to the fantasy identity and progression of Eclyria.
 
-The world of Eclyria is populated by creatures unique to its different environments.
+## CREATURES OF ECLYRIA
 
-Some of the creatures featured in the project include:
+The Rift dimensions are home to creatures unlike those found in ordinary Minecraft.
 
-- Riftling
-- Rift Stalker
-- Verdant Sentinel
-- Rift Guardian
-- Void Wraith
-- Crystal Brute
-- Ash Hound
-- Aether Mage
+| Creature | Identity |
+|---|---|
+| Riftling | A creature of the Rift |
+| Rift Stalker | A hostile hunter |
+| Verdant Sentinel | Guardian of the Verdant |
+| Rift Guardian | A dimensional protector |
+| Void Wraith | An entity of the Void |
+| Crystal Brute | A powerful crystal creature |
+| Ash Hound | An inhabitant of Ember |
+| Aether Mage | A wielder of mysterious magic |
 
-Each creature contributes to the identity of its surrounding environment.
+Each creature contributes to the atmosphere and identity of the world it inhabits.
 
-### Divine Revelation
+The bestiary is intended to give the world a recognizable ecosystem rather than making every encounter feel the same.
 
-A mysterious spiritual system connected to the magical side of Eclyria.
+## DIVINE REVELATION
 
-The Divine Priest serves as an important figure in this experience, offering players a connection to the world's divine progression and magical identity.
+*Not all power is discovered. Some must be bestowed.*
 
-### Havenfall
+Divine Revelation represents the spiritual and magical side of Eclyria.
+
+Through the Divine Priest, players encounter a system connected to divine progression, magical identity, and the mysteries surrounding the world's higher powers.
+
+It forms part of the wider fantasy mythology and the relationship between adventurers and the forces beyond the ordinary world.
+
+## HAVENFALL
+
+**A sanctuary between adventures.**
 
 Havenfall is envisioned as the central sanctuary of Eclyria.
 
-It serves as a place for players to begin their journey, prepare for exploration, and connect with the wider world.
+A place where adventurers can begin their journey, prepare for exploration, and connect with the wider world.
 
-### Crafting and Collections
-
-Eclyria incorporates additional RPG-inspired activities:
-
-- Unique crafting materials.
-- Special equipment.
-- Collectible items.
-- Personal storage.
-- Item collections.
-- Cosmetic customization.
-- Rare discoveries.
-
-### Immersive Player Experience
-
-The project aims to create an experience that feels different from ordinary Minecraft gameplay.
-
-Its visual and interface direction includes:
-
-- Custom RPG menus.
-- Character information interfaces.
-- Equipment presentation.
-- Custom item identities.
-- Environmental ambience.
-- Themed dimensions.
-- Distinctive fantasy aesthetics.
+It represents the starting point of an experience that extends far beyond familiar lands.
 
 ---
 
-## Development Philosophy
+## DEVELOPMENT PHILOSOPHY
 
-Eclyria: Riftfall is being developed with an emphasis on creating a cohesive RPG experience rather than simply adding isolated features to Minecraft.
+Eclyria is being developed with one central idea:
 
-The long-term vision includes:
+**Create a cohesive RPG world, not just another collection of Minecraft features.**
 
-- A more immersive fantasy world.
+The project's creative direction focuses on:
+
+- Distinctive world identities.
 - Meaningful character progression.
-- Distinctive class identities.
-- Exploration-driven gameplay.
+- Immersive fantasy environments.
 - Unique creatures and equipment.
-- A connected world with its own atmosphere and identity.
+- Exploration-driven experiences.
+- A consistent visual and gameplay identity.
+- A world that feels connected through its lore and atmosphere.
 
-The project is an evolving creative and engineering effort.
+Eclyria is currently in **Alpha 0.5**. The project continues to evolve, and its creative direction, mechanics, and content may change throughout development.
 
-## AI-Assisted Development
+## AI-ASSISTED DEVELOPMENT
 
-Eclyria uses AI-assisted development as part of its engineering workflow.
+Eclyria is developed through a combination of human creativity, engineering, and AI-assisted workflows.
 
-AI tools contribute to:
+AI tools are used throughout the development process for:
 
 - Development assistance.
 - Code generation.
 - Debugging and problem-solving.
-- Code review.
-- Experimentation and prototyping.
-- Documentation and refinement.
+- Code review and refinement.
+- Prototyping and experimentation.
+- Documentation.
 
-Project direction, creative decisions, feature planning, and development oversight remain part of the developer's workflow.
+AI is a development tool, not a replacement for project direction. Creative decisions, feature planning, design direction, and development oversight remain part of the developer's workflow.
 
 We believe AI can be a valuable engineering tool when combined with human creativity, judgment, and direction.
 
 ---
 
-## Project Information
+## PROJECT INFORMATION
 
 | | |
 |---|---|
-| Project Name | Eclyria: Riftfall |
-| Developer | Darknet_Dweller |
-| Studio | NullWalkers |
-| Category | Fantasy RPG |
-| Platform | Minecraft |
-| Project Type | Custom RPG Experience |
-| Repository | Older Preview Source |
+| **Project Name** | Eclyria: Riftfall |
+| **Current Version** | Alpha 0.5 |
+| **Development Status** | Early Development |
+| **Developer** | Darknet_Dweller |
+| **Studio** | NullWalkers |
+| **Genre** | Fantasy RPG / MMORPG-inspired |
+| **Platform** | Minecraft |
+| **Project Type** | Independent Development |
+| **Repository** | Older Incomplete Preview |
 
-## Credits
+## CREDITS
 
-**Created and directed by Darknet_Dweller**
+**Project Creator and Lead Developer**
 
-**Developed under NullWalkers**
+Darknet_Dweller
 
----
+**Studio**
 
-## Disclaimer
+NullWalkers
 
-Eclyria: Riftfall is an independent fan-made project and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
-
-Minecraft is a trademark of Mojang Studios.
-
-All original project names, concepts, designs, and associated creative materials belong to their respective creators.
+Eclyria: Riftfall is an independent creative and development project under NullWalkers.
 
 ---
 
-<p align="center">
+<div align="center">
 
-**ECLYRIA: RIFTFALL**
+# ECLYRIA: RIFTFALL
 
-*Beyond the known lies another world.*
+### THE JOURNEY IS NOT OVER.
 
-**A NullWalkers Project**
+*Three dimensions await. Countless discoveries remain.*
 
-</p>
+**CURRENT VERSION: ALPHA 0.5**
+
+**A NULLWALKERS PROJECT**
+
+Created by **Darknet_Dweller**
+
+---
+
+<sub>Eclyria: Riftfall is an independent fan-made project and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Studios.</sub>
+
+</div>
